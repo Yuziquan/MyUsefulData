@@ -1,3 +1,3 @@
-## My_favorite_pictures
+## MyData
 
-Just some pictures I like~~
+Just my data.
